@@ -5,10 +5,10 @@ Proyek ini merupakan implementasi sederhana dari algoritma **Decision Tree Class
 ---
 
 ## 🗂️ Struktur Proyek
-.
-├── dataset.csv           # Dataset utama
-├── notebook.ipynb        # Notebook utama untuk eksplorasi dan modeling
-└── README.md             # Dokumentasi proyek
+- .
+- ├── dataset.csv           # Dataset utama
+- ├── notebook.ipynb        # Notebook utama untuk eksplorasi dan modeling
+- └── README.md             # Dokumentasi proyek
 
 ---
 
